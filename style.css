@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.vert{
+    background-color: tomato;
+    height: 100%;
+    width: 1px;
+    position: absolute;
+}
+.hor{
+    background-color: tomato;
+    height: 1px;
+    position: absolute;
+    width: 100%;
+}
+.tag {
+    background-color: gainsboro;
+    position: absolute;
+}
